@@ -1,6 +1,6 @@
 # Nombre del Proyecto
 
-API de Practica Git Flow
+API de Practica Git Flow para estudiantes
 
 ## Descripción
 
@@ -18,8 +18,8 @@ Requisitos:
 Pasos:
 
 ~~~bash
-git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPO.git
-cd NOMBRE_DEL_REPO
+git clone https://github.com/TU_USUARIO/NOMBRE_DEL_REPOSITORIO.git
+cd NOMBRE_DEL_REPOSITORIO
 npm install
 ~~~
 
