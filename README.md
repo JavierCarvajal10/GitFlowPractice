@@ -13,7 +13,7 @@ La API tiene un endpoint de estado que permite comprobar que el servidor esta fu
 Requisitos:
 
 - Node.js 20 o superior.
-- npm.
+- npm install.
 
 Pasos:
 
@@ -25,20 +25,20 @@ npm install
 
 ## Uso
 
-Levantar el servidor local:
+Para levantar el servidor local:
 
 ~~~bash
 npm start
 ~~~
 
-Probar el endpoint:
-
+Para probar el endpoint:
+Tienes que correr el siguiente link en el navegador.
 ~~~bash
 curl http://localhost:3000/api/estado
 ~~~
 
 Respuesta esperada:
-
+Esta es la respuesta que se espera del backend
 ~~~json
 {
   "ok": true,
